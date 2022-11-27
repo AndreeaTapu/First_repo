@@ -1,0 +1,13 @@
+lista_goala = []
+dict_gol = {}
+
+# declaram si initializam un dict
+note_elevi = {'Gigel' : 10; 'Costel' : 9; 'Ana': 10}
+
+# adaugam elemente
+note_elevi['Sebi'] = 7
+
+# printam dictul
+print
+
+
